@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.png" width="100%" alt="Banner Espacial">
+  <img src="header.png" width="60%" alt="Banner Espacial">
 </div>
 
 <br>
