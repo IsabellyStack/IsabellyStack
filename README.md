@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="estrelas.jpg" width="100%" alt="Banner Espacial">
+  <img src="header.png" width="100%" alt="Banner Espacial">
 </div>
 
 <br>
@@ -32,5 +32,5 @@
 </table>
 
 <div align="center">
-  <img src="planetas.jpg" width="100%" alt="Banner Espacial">
+  <img src="footer.png" width="100%" alt="Banner Espacial">
 </div>
