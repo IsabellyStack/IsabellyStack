@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://postimg.cc/pytCmbKy">
-    <img src="blob:https://web.whatsapp.com/2c754675-08ec-42bd-9dd1-7c5c7512ef42" width="100%" alt="Banner"/>
+    <img src="estrelas.jpg" width="100%" alt="Banner"/>
   </a>
 </div>
 
