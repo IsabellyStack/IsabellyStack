@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="blackhole.gif" width="1000" alt="Banner Espacial">
+  <img src="blackhole.gif" width="400" alt="Banner Espacial">
 </div>
 
 <br>
