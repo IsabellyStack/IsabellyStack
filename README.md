@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://postimg.cc/pytCmbKy">
-    <img src="estrelas.jpg" height=50% width="100%" alt="Banner"/>
-  </a>
+  <img src="estrelas.jpg" width="100%" height="220" alt="Banner Espacial">
 </div>
 
 <br>
