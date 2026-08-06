@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="estrelas_2.jpg" width="100%" alt="Banner Espacial">
+  <img src="estrelas.jpg" width="100%" alt="Banner Espacial">
 </div>
 
 <br>
