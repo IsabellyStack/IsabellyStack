@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://postimg.cc/pytCmbKy">
-    <img src="estrelas.jpg" width="100%" alt="Banner"/>
+    <img src="estrelas.jpg" height=50% width="100%" alt="Banner"/>
   </a>
 </div>
 
