@@ -30,7 +30,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="middle" style="background: transparent;>
+    <td colspan="2" valign="middle">
       <h3>🛠️ Technologies & Tools | Tecnologias e Ferramentas</h3>
       <br>
       <p align="center">
