@@ -2,7 +2,7 @@
   <img src="header.png" style="height: 180px; width: 100%; object-fit: cover; alt="Banner Espacial">
 </div>
 
-<br>
+
 
 <table>
   <tr>
