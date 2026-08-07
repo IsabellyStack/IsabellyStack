@@ -4,7 +4,7 @@
 
 <br>
 
----
+<hr>
 
 # 🌎 Choose your language | Escolha seu idioma
 
@@ -97,7 +97,9 @@
 </table>
 
 </details>
----
+
+<hr>
+
 <div align="center">
   <img src="footer.png" width="100%" alt="Banner Espacial">
 </div>
