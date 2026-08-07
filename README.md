@@ -29,7 +29,7 @@
       <br>
       <b>🎓 Estudante do Ensino Médio Técnico em Informática no IFCE Campus Maranguape.</b><br><br>
       📍 Moro no Brasil e tenho interesse em desenvolvimento web e em aprender novas tecnologias. Busco evoluir constantemente como desenvolvedora, unindo criatividade e lógica para desenvolver soluções e aprimorar minhas habilidades.<br><br>
-      💻 Atualmente, estou focando meus estudos em desenvolvimento web, aprimorando minhas habilidades em <b>Java, Python, HTML, CSS e JavaScript</b>, enquanto fortaleço minha lógica de programação e construo uma base sólida para minha carreira na tecnologia.<br><br>
+      💻 Atualmente, estou focando meus estudos em desenvolvimento web, aprimorando minhas habilidades em <b>Java, Python, HTML, CSS e JavaScript,</b> enquanto fortaleço minha lógica de programação e construo uma base sólida para minha carreira na tecnologia.<br><br>
     </td>
     <td align="center" valign="middle" width="30%">
       <a href="https://postimg.cc/NyFKLkth">
@@ -74,7 +74,7 @@
       <br>
       <b>🎓 Technical High School Student in Informatics at IFCE – Maranguape Campus.</b><br><br>
      📍 I live in Brazil and have a strong interest in web development and learning new technologies. I am constantly striving to grow as a       developer, combining creativity and logical thinking to build solutions and continuously improve my skills.<br><br>
-     💻 Currently, I am focusing my studies on web development, enhancing my skills in <b>Java, Python, HTML, CSS, and JavaScript</b>,             while strengthening my programming logic and building a solid foundation for my career in technology.<br><br>
+     💻 Currently, I am focusing my studies on web development, enhancing my skills in <b>Java, Python, HTML, CSS, and JavaScript,</b>            while strengthening my programming logic and building a solid foundation for my career in technology.<br><br>
     </td>
     <td align="center" valign="middle" width="30%">
       <a href="https://postimg.cc/NyFKLkth">
