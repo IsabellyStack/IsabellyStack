@@ -31,8 +31,7 @@
   </tr>
   <tr>
     <td colspan="2" valign="middle">
-      <br>
-      <h3 align="center">🛠️ Technologies & Tools | Tecnologias e Ferramentas</h3>
+      <h3>🛠️ Technologies & Tools | Tecnologias e Ferramentas</h3>
       <p align="center">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=py,java,js,html,css,mysql,vscode,arduino,latex,figma,linux,windows,git,github&perline=7"/>
