@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td colspan="2" align="center" valign="middle">
-      <a href="mailto:karthick.aidev@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+      <a href="mailto:gomesisabelly683@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
       &nbsp;
     </td>
   </tr>
@@ -60,7 +60,7 @@
 <table>
   <tr>
     <td colspan="2" align="center" valign="middle">
-      <a href="mailto:karthick.aidev@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+      <a href="mailto:gomesisabelly683@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
       &nbsp;
     </td>
   </tr>
