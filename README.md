@@ -29,8 +29,18 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="middle">
+      <br>
+      <h3 align="center">🛠️ Technologies & Tools | Tecnologias e Ferramentas</h3>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=py,java,js,html,css,mysql,vscode,arduino,latex,figma,linux,windows,git,github&perline=7"/>
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
-
 <div align="center">
   <img src="footer.png" width="100%" alt="Banner Espacial">
 </div>
