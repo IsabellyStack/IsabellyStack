@@ -3,7 +3,9 @@
 </div>
 
 <br>
+
 ---
+
 # 🌎 Choose your language | Escolha seu idioma
 
 <details close>
