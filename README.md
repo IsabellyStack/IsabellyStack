@@ -3,10 +3,10 @@
 </div>
 
 <br>
-
+---
 # 🌎 Choose your language | Escolha seu idioma
 
-<details open>
+<details close>
 <summary>🇧🇷 Português</summary>
 <br>
 
@@ -95,7 +95,7 @@
 </table>
 
 </details>
-
+---
 <div align="center">
   <img src="footer.png" width="100%" alt="Banner Espacial">
 </div>
