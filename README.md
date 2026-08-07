@@ -27,9 +27,9 @@
   <tr>
     <td valign="middle" width="70%">
       <br>
-      <b>Desenvolvedora React & Graduanda em IA/Ciência de Dados</b> (Turma de 2026)<br><br>
-      Moro em Trivandrum e sou profundamente apaixonada por criar aplicações web minimalistas de alto desempenho e construir fluxos de trabalho automatizados eficientes.<br><br>
-      Atualmente, estou focando minha energia no desenvolvimento do <b>FileGhost</b> (uma plataforma de compartilhamento de arquivos focada em privacidade) e do <b>Updrop</b> (ferramentas de automação). Meu playground técnico gira em torno de React, Tailwind CSS, implantações locais de IA e orquestração de pipelines no n8n para me livrar do trabalho manual.<br><br>
+      <b>Estudante do Ensino Médio Técnico em Informática no IFCE Campus Maranguape.</b><br><br>
+      Moro no Brasil e tenho interesse em desenvolvimento web e em aprender novas tecnologias. Busco evoluir constantemente como desenvolvedora, unindo criatividade e lógica para desenvolver soluções e aprimorar minhas habilidades.<br><br>
+      Atualmente, estou focando meus estudos em desenvolvimento web, aprimorando minhas habilidades em <b>Java, Python, HTML, CSS e JavaScript</b>, enquanto fortaleço minha lógica de programação e construo uma base sólida para minha carreira na tecnologia.<br><br>
     </td>
     <td align="center" valign="middle" width="30%">
       <a href="https://postimg.cc/NyFKLkth">
@@ -72,9 +72,9 @@
   <tr>
     <td valign="middle" width="70%">
       <br>
-      <b>React Developer & AI/DS Undergrad</b> (Class of 2026)<br><br>
-      I am based in Trivandrum and deeply passionate about crafting minimalist, high-performance web applications and building efficient automated workflows.<br><br>
-      Currently, I'm focusing my energy on building <b>FileGhost</b> (a privacy-centric file-sharing platform) and <b>Updrop</b> (automation tools). My technical playground revolves around React, Tailwind CSS, local AI deployments, and orchestrating n8n pipelines to automate myself out of manual labor.<br><br>
+      <b>Technical High School Student in Informatics at IFCE – Maranguape Campus.</b><br><br>
+      I live in Brazil and have a strong interest in web development and learning new technologies. I am constantly striving to grow as a       developer, combining creativity and logical thinking to build solutions and continuously improve my skills.<br><br>
+      Currently, I am focusing my studies on web development, enhancing my skills in <b>Java, Python, HTML, CSS, and JavaScript</b>,             while strengthening my programming logic and building a solid foundation for my career in technology.<br><br>
     </td>
     <td align="center" valign="middle" width="30%">
       <a href="https://postimg.cc/NyFKLkth">
